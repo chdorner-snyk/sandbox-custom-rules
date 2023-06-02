@@ -2,16 +2,8 @@
   "name": "sandbox-custom-rules",
   "push": [
     {
-      "custom_rules_id": "1c82958c-c9d5-433f-b1f0-207603623fb2",
-      "organization_id": "a218c510-daff-480f-a276-cd8c08dac916"
-    },
-    {
-      "custom_rules_id": "bea4156e-bbbd-43b2-ba7d-8ad57af7a480",
-      "organization_id": "fbfd0a28-b123-49e3-bf55-8926df79fc7c"
-    },
-    {
-      "custom_rules_id": "9704abbd-11cd-4d1f-962f-313ad55de56c",
-      "organization_id": "fcb9ccce-ba41-4146-a244-e2c842b2889c"
+      "custom_rules_id": "23929d55-e064-4dd1-925d-452fbef41f4c",
+      "organization_id": "3a7d779f-4702-406f-9ca1-5a1123b87659"
     }
   ]
 }
